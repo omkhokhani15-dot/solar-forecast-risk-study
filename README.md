@@ -1,6 +1,6 @@
 # Solar Forecast Accuracy & DSM Penalty Risk: 42-Site Study
 
-**Day-ahead forecasts reached a median error (MAPE) of 9% and median R² of 0.97 across 42 grid-connected solar sites (71 MWp); 40 of 42 sites stayed inside the penalty-safe band of India's Deviation Settlement Mechanism (DSM).**
+**Day-ahead forecasts reached a median error (MAPE) of 9% and median R² of 0.97 across 42 (real= 10 , synthetic-32) solar sites (71 MWp); 40 of 42 sites stayed inside the penalty-safe band of India's Deviation Settlement Mechanism (DSM).**
 
 Under DSM rules, a solar plant pays a penalty when actual generation deviates too far from its day-ahead schedule. This study measures how accurate forecasts are, where they fail, and what the error costs.
 
